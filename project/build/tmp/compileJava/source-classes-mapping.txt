@@ -1,0 +1,30 @@
+com/bookstore/project/common/exceptions/RecordNotFoundException.java
+ com.bookstore.project.common.exceptions.RecordNotFoundException
+com/bookstore/project/common/util/LocalTimeProvider.java
+ com.bookstore.project.common.util.LocalTimeProvider
+com/bookstore/project/common/database/AuthorEntity.java
+ com.bookstore.project.common.database.AuthorEntity
+com/bookstore/project/common/util/TimeProvider.java
+ com.bookstore.project.common.util.TimeProvider
+com/bookstore/project/common/exceptions/RequestValidationException.java
+ com.bookstore.project.common.exceptions.RequestValidationException
+com/bookstore/project/common/database/BookEntity.java
+ com.bookstore.project.common.database.BookEntity
+com/bookstore/project/ProjectApplication.java
+ com.bookstore.project.ProjectApplication
+com/bookstore/project/domain/Author.java
+ com.bookstore.project.domain.Author
+com/bookstore/project/domain/Book.java
+ com.bookstore.project.domain.Book
+com/bookstore/project/common/database/BookRepository.java
+ com.bookstore.project.common.database.BookRepository
+com/bookstore/project/web/GetBooksRequest.java
+ com.bookstore.project.web.GetBooksRequest
+com/bookstore/project/common/database/AuthorRepository.java
+ com.bookstore.project.common.database.AuthorRepository
+com/bookstore/project/domain/Service.java
+ com.bookstore.project.domain.Service
+com/bookstore/project/security/WebSecurityConfig.java
+ com.bookstore.project.security.WebSecurityConfig
+com/bookstore/project/web/ApplicationController.java
+ com.bookstore.project.web.ApplicationController
